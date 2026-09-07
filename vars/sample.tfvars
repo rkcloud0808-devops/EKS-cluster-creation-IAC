@@ -1,5 +1,5 @@
 # ============================================================
-# DevOps EKS cluster
+# EKS cluster
 #
 # ACCOUNT_ID and ROLE_NAME may alternatively be injected by
 # CI/CD through TF_VAR_ACCOUNT_ID and TF_VAR_ROLE_NAME.
